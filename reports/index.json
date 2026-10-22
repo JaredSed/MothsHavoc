@@ -46,46 +46,6 @@
         "avgSquadSize": 7,
         "avgEnemySize": 29
       }
-    },
-    {
-      "id": "20261021-180720-as4p",
-      "title": "Dua Leapa, Thiela Bronn",
-      "commanders": [
-        "Dua Leapa",
-        "Thiela Bronn"
-      ],
-      "guild": {
-        "id": "DA835590-BFBA-4D4C-BF10-014905F32E00",
-        "name": "Incoming Quaggans",
-        "tag": "íQ"
-      },
-      "dateStart": "2026-10-22T00:07:20.000Z",
-      "dateEnd": "2026-10-22T01:48:15.904Z",
-      "dateLabel": "10/21/2026, 6:07:20 PM - 10/21/2026, 7:48:15 PM",
-      "url": "https://jaredsed.github.io/MothsHavoc/?report=20261021-180720-as4p",
-      "publishedBy": "JaredSed",
-      "summary": {
-        "borderlandsPct": 0.21818181818181817,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 43,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 10,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 2,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 8,
-        "avgEnemySize": 28
-      }
     }
   ]
 }
