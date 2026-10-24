@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261023-201351-z0hj",
+      "title": "Munchkin Screed",
+      "commanders": [
+        "Munchkin Screed"
+      ],
+      "guild": {
+        "id": "D8AA9D4D-AF60-482E-882C-857AC88C7ED8",
+        "name": "Company Of Traveling Heroes",
+        "tag": "CTH"
+      },
+      "dateStart": "2026-10-24T02:13:51.000Z",
+      "dateEnd": "2026-10-24T03:54:56.836Z",
+      "dateLabel": "10/23/2026, 8:13:51 PM - 10/23/2026, 9:54:56 PM",
+      "url": "https://jaredsed.github.io/MothsHavoc/?report=20261023-201351-z0hj",
+      "publishedBy": "JaredSed",
+      "summary": {
+        "borderlandsPct": 0.35714285714285715,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20261023-201351-o767",
       "title": "Munchkin Screed",
       "commanders": [
